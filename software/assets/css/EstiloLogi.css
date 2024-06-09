@@ -1,0 +1,57 @@
+body{
+    background-color:  #e9ecef;
+}
+.contenedor{
+    padding: 0;
+    height: 85vh;   
+    border-radius: 10px;
+    width: 65%;
+    box-shadow: 2px 2px 6px gray;
+}
+
+.contenedorForm{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.logo{
+    display: block;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    filter: drop-shadow(2px 2px 5px #570badc7);
+}
+
+.bienvenidos{
+    text-align: center;
+    margin-top: 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.imagen{
+    background-color: #7b2cbf;
+    background-image: url("../../img/ImagenLogin.png"),linear-gradient(to bottom, #7b2cbf, #6b23aa, #5b1b95, #4b1280, #3c096c);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.formulario{
+    width: 60%;
+    margin-top: 40px;
+}
+
+.formulario label{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.ingresar{
+    width: 70%;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+    margin-top: 60px;
+}
