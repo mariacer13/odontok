@@ -6,6 +6,6 @@
 
     //Credenciales de acceso
     const USER_POSTGRES = 'administrador'; //Usuario
-    const PASSWORD_POSTGRES = '123456ML#'; //Contraseña del usuario
+    const PASSWORD_POSTGRES = '123456ml*'; //Contraseña del usuario
 
 ?>
