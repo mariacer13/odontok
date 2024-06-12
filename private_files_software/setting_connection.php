@@ -1,7 +1,7 @@
 <?php
     //Valores de la base datos
-    const IP = 'odontok.azurewebsites.net';
-    const DATA_BASE = 'odontok'; // Nombre de la base de datos
+    const IP = 'dbodontok.postgres.database.azure.com';
+    const DATA_BASE = 'postgres'; // Nombre de la base de datos
     const PORT = '5432';
 
     //Credenciales de acceso
